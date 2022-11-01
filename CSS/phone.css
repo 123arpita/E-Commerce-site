@@ -1,0 +1,28 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+}
+#home{
+   height: 650px;
+   overflow: hidden;
+}
+#home::before{
+    height: 720px;
+}
+#home #box1{
+    font-size: 60px;
+}
+#Explore-item #Explores{
+flex-direction: column;
+}
+
+#About-us{
+    flex-wrap: wrap;
+}
+
+#About-us .box0{
+    flex-direction: column;
+}
